@@ -23,7 +23,7 @@ cross-validation results were used to find the best features,
 classifiers and classifier parameters before ultimately training on the
 entire training data set and testing on the unseen test data.
 
-Please see the README document and code comments for more detailed
+Please see the INSTRUCTIONS document and code comments for more detailed
 instructions on how to run the IPython notebook and associated code.
 
 Pre-Processing The Data
