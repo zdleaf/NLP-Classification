@@ -1,7 +1,7 @@
 Abstract
 ========
 
-Using labelled script lines from the show EastEnders, a classifier was
+Using labelled script lines from a popular TV show, a classifier was
 trained in Python to predict two labels; gender and character name. The
 classifier was tested with the addition of a number of different
 features, including word stemming, stop word removal, lemmatization,
@@ -25,6 +25,8 @@ entire training data set and testing on the unseen test data.
 
 Please see the INSTRUCTIONS document and code comments for more detailed
 instructions on how to run the IPython notebook and associated code.
+
+NB: The training and test data has been removed from this repo as it is not licensed for general release
 
 Pre-Processing The Data
 =======================
